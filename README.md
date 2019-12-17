@@ -4,5 +4,5 @@ This is the first file in this repo.
 
 ## Website Contents
 
-Heare the files in the wensite
+Here the files in the wensite
 1. index.html
